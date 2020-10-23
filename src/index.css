@@ -11,3 +11,77 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-wrapper{
+  background-color: #FFC511;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.nav-wrapper a{
+  color: black;
+  font: bold;
+}
+
+/* .container{
+  margin-top: 100px;
+} */
+
+.container h3{
+  padding-bottom: 30px;
+}
+
+.btn{
+  background-color: #e65100;
+  margin-top: 20px;
+}
+
+.container{
+  margin-top: 75px;
+}
+
+.pencil-img{
+  opacity: 70%;
+}
+
+.note-card{
+  margin-top: 50px;
+}
+
+.no-notes{
+  text-align: center;
+  margin-top: 150px;
+}
+.fa-trash{
+  background-color: white;
+  border: none; 
+  cursor: pointer;
+}
+
+.delete{
+  margin-left: 90%;
+  cursor: pointer;
+}
+
+.note-content{
+  margin-top: 50px;
+}
+
+#login-pic, #login-form{
+display: inline;
+vertical-align: top;
+}
+
+#login-pic{
+  margin-left: -100px;
+}
+
+#login-form{
+  margin-left: 100px;
+  margin-top: 200px;
+  padding-left: 60px;
+}
+
+#container{
+  text-align: center;
+}
