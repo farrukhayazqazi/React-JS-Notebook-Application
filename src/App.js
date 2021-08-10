@@ -30,7 +30,6 @@ class App extends Component {
     //     body: null
     // }
     // {id: 1, title: 'Dark Knight Rises', snippet: 'DC', body:'Let put a smile on that face'},
-    // {id: 2, title: 'Bhola records', snippet: 'BC', body:'Tu meray level da aadmi'}
 
     ]
 
